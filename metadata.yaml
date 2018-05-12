@@ -1,10 +1,16 @@
 _repo: Caudebec-in-America-A-Record-of-the-Descendants-of-Jacques-Caudebec-1700-to-1920_46692
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46692-h/images/cover.jpg
 creator:
   author:
     agent_name: Cuddeback, William Louis
     gutenberg_agent_id: '43905'
     url: http://www.gutenberg.org/2009/agents/43905
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46692#Caudebec-in-America-A-Record-of-the-Descendants-of-Jacques-Caudebec-1700-to-1920
 gutenberg_issued: '2014-08-26'
 gutenberg_type: Text
 identifiers:
