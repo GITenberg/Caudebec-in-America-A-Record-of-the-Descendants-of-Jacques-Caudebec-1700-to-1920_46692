@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Caudebec in America
 
   A Record of the Descendants of Jacques Caudebec 1700 to 1920'
